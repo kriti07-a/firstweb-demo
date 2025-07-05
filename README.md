@@ -1,4 +1,4 @@
 # firstweb-demo
 This is my first Git Repository.
 <br>
-Author - Kriti Kumari<i>
+Author - Kriti Kumari
